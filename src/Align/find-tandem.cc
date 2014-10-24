@@ -7,6 +7,7 @@
 #include <vector>
 #include <ctime>
 #include <sys/time.h>
+#include <getopt.h>
 using namespace std;
 
 const int OFFSET_TABLE_SIZE = 100;
